@@ -1,6 +1,7 @@
 {
-  "name": "eslint-plugin-shortlink",
+  "name": "@shortlink-org/eslint-plugin-shortlink",
   "version": "1.0.0",
+  "_id": "@shortlink-org/eslint-plugin-shortlink@1.0.0",
   "main": "dist/index.js",
   "devDependencies": {},
   "scripts": {
