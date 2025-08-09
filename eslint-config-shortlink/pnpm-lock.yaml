@@ -12,6 +12,9 @@ importers:
         specifier: ^9.33.0
         version: 9.33.0
     devDependencies:
+      '@shortlink-org/eslint-plugin-shortlink':
+        specifier: 0.20250809.182956
+        version: 0.20250809.182956
       '@swc/cli':
         specifier: ^0.7.8
         version: 0.7.8(@swc/core@1.13.3)
@@ -178,6 +181,9 @@ packages:
   '@napi-rs/nice@1.0.4':
     resolution: {integrity: sha512-Sqih1YARrmMoHlXGgI9JrrgkzxcaaEso0AH+Y7j8NHonUs+xe4iDsgC3IBIDNdzEewbNpccNN6hip+b5vmyRLw==}
     engines: {node: '>= 10'}
+
+  '@shortlink-org/eslint-plugin-shortlink@0.20250809.182956':
+    resolution: {integrity: sha1-OkFld42FHLqiviTBdvyamdnjO64=, tarball: https://gitlab.com/api/v4/projects/72693539/packages/npm/@shortlink-org/eslint-plugin-shortlink/-/@shortlink-org/eslint-plugin-shortlink-0.20250809.182956.tgz}
 
   '@sindresorhus/is@5.6.0':
     resolution: {integrity: sha512-TV7t8GKYaJWsn00tFDqBw8+Uqmr8A0fRU1tvTQhyZzGv0sJCGRQL3JGMI3ucuKo3XIZdUP+Lx7/gh2t3lewy7g==}
@@ -1020,6 +1026,8 @@ snapshots:
       '@napi-rs/nice-win32-ia32-msvc': 1.0.4
       '@napi-rs/nice-win32-x64-msvc': 1.0.4
     optional: true
+
+  '@shortlink-org/eslint-plugin-shortlink@0.20250809.182956': {}
 
   '@sindresorhus/is@5.6.0': {}
 
