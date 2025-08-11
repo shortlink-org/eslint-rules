@@ -31,7 +31,7 @@
   },
   "packageManager": "pnpm@10.14.0",
   "devDependencies": {
-    "@shortlink-org/eslint-plugin-shortlink": "0.20250809.182956",
+    "@shortlink-org/eslint-plugin-shortlink": "0.20250809.193608",
     "@swc/cli": "^0.7.8",
     "@swc/core": "^1.13.3"
   }
