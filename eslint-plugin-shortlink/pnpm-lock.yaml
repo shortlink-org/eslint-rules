@@ -9,10 +9,10 @@ importers:
   .:
     devDependencies:
       '@swc/cli':
-        specifier: ^0.7.9
+        specifier: ^0.7.8
         version: 0.7.9(@swc/core@1.15.1)
       '@swc/core':
-        specifier: ^1.15.1
+        specifier: ^1.13.3
         version: 1.15.1
 
 packages:
