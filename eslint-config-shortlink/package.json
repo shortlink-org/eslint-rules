@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/shortlink-org/shortlink#readme",
   "peerDependencies": {
-    "eslint": "^9.33.0"
+    "eslint": "^9.33.0 || ^10.0.0"
   },
   "packageManager": "pnpm@10.28.1",
   "devDependencies": {
