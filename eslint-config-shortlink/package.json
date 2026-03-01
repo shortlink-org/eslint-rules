@@ -32,7 +32,7 @@
   "packageManager": "pnpm@10.28.1",
   "devDependencies": {
     "@shortlink-org/eslint-plugin-shortlink": "0.20250809.193608",
-    "@swc/cli": "^0.7.8",
+    "@swc/cli": "^0.8.0",
     "@swc/core": "^1.13.3"
   }
 }
