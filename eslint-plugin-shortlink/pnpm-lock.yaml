@@ -12,7 +12,7 @@ importers:
         specifier: ^0.8.0
         version: 0.8.1(@swc/core@1.15.21)
       '@swc/core':
-        specifier: ^1.15.21
+        specifier: ^1.13.3
         version: 1.15.21
 
 packages:
