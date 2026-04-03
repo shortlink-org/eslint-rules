@@ -4,7 +4,7 @@
   "_id": "@shortlink-org/eslint-plugin-shortlink@1.0.0",
   "main": "dist/index.js",
   "devDependencies": {
-    "@swc/cli": "^0.7.8",
+    "@swc/cli": "^0.8.0",
     "@swc/core": "^1.13.3"
   },
   "scripts": {
